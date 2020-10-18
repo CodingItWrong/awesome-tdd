@@ -20,6 +20,7 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
   -  [Nodejs](#nodejs)
   -  [Angularjs](#angularjs)
   -  [Reactjs](#reactjs)
+  -  [Vuejs](#vuejs)
 - [TDD in Ruby](#tdd-in-ruby)
   -  [Rails](#rails)
 - [TDD in Java](#tdd-in-java)
@@ -127,6 +128,9 @@ Curated list of resources: books, videos, articles about using TDD( Test Driven 
 * [TDD in ES6 & React Webcast](https://ericelliottjs.com/product/tdd-es6-react/)
 * [React TDD guide](https://github.com/zpratt/react-tdd-guide)
 * [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+
+### VueJS
+* [Learn TDD in Vue](https://learntdd.in/vue)
 
 ## TDD IN RUBY
 * [Introduction to test driven design](http://rubyoffrails.com/videos/18-introduction-to-test-driven-design-tdd)
